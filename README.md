@@ -23,13 +23,32 @@
 
 ## 🌐 Connect with Me  
 
+## 🌐 Connect with Me  
+
+## 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://codeforces.com/profile/Devvvvv" target="_blank"><img src="https://skillicons.dev/icons?i=codeforces" width="45" /></a>
-  <a href="https://linkedin.com/in/varun sammal" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
-  <a href="https://instagram.com/varun.sammal" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
-  <a href="https://www.leetcode.com/varun_sammal446" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="45" /></a>
-  <a href="https://codeforces.com/profile/varun_sammal" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" width="40" height="40" /></a>
+  <a href="https://codeforces.com/profile/Devvvvv" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Codeforces-131313?style=for-the-badge&logo=codeforces&logoColor=00AEEF" alt="Codeforces" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/devvsharma___/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=ffffff" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/devdevioxvk/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/varun.sammal" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/varunsammal" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
+
 
 ---
 
