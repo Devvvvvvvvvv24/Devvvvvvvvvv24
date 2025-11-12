@@ -19,11 +19,7 @@
 - 📫 Reach me at **DevEmail@gmail.com**  
 - ⚡ Fun fact: *I debug CSS faster than I find my charger cable* 😆  
 
----
-
-## 🌐 Connect with Me  
-
-## 🌐 Connect with Me  
+--- 
 
 ## 🌐 Connect with Me
 
@@ -38,10 +34,6 @@
   &nbsp;
   <a href="https://www.geeksforgeeks.org/user/devdevioxvk/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/varun.sammal" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/varunsammal" target="_blank" rel="noreferrer">
