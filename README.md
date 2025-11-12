@@ -24,7 +24,7 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://twitter.com/sammalvaru" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
+  <a href="https://codeforces.com/profile/Devvvvv" target="_blank"><img src="https://skillicons.dev/icons?i=codeforces" width="45" /></a>
   <a href="https://linkedin.com/in/varun sammal" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
   <a href="https://instagram.com/varun.sammal" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
   <a href="https://www.leetcode.com/varun_sammal446" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="45" /></a>
