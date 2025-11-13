@@ -16,7 +16,7 @@
 - 🔭 Working on **[Nutrify 🍏](https://nutrify-v2.vercel.app/)**  
 - 🌱 Currently exploring **Next.js, Framer Motion, and UI Animations**  
 - 💬 Ask me about **React, Node.js, MongoDB, TailwindCSS**  
-- 📫 Reach me at **DevEmail@gmail.com**  
+- 📫 Reach me at **devvsharmaa06@gmail.com**  
 - ⚡ Fun fact: *I debug CSS faster than I find my charger cable* 😆  
 
 --- 
